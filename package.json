@@ -1,0 +1,43 @@
+{
+  "name": "Fuitai",
+  "version": "1.0.0",
+  "description": "An open source discord bot! (with command handler)\r You can take any code that you want here, but I don't recommend you to copy paste it, since you don't learn anything, you'll might prefer trying to understand it, or atleast doing it on your way, I hope your enjoy this code!\r # Leshu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimmysit0/Leshu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimmysit0/Leshu/issues"
+  },
+  "homepage": "https://github.com/Jimmysit0/Leshu#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "async_hooks": "^1.0.0",
+    "beautify": "0.0.8",
+    "cleverbot-node": "^0.3.11",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "date-events": "^1.0.1",
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.1",
+    "gamecord-fork": "^1.0.12",
+    "jimp": "^0.16.1",
+    "mathjs": "^7.2.0",
+    "moment": "^2.28.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "novelcovid": "^3.0.0",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "random-puppy": "^1.1.0",
+    "util": "^0.12.3",
+    "weather-js": "^2.0.0"
+  }
+}
